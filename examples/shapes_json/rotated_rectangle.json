@@ -1,0 +1,5 @@
+{
+  "center": [60, 80],
+  "vertices": [[52, 70], [52, 90], [68, 90], [68, 70]],
+  "metadata": { "label": "rotated_rect", "angle_deg": 0 }
+}

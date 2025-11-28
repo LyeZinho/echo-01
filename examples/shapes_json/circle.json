@@ -1,0 +1,5 @@
+{
+  "center": [40, 50],
+  "radii": [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12],
+  "metadata": { "label": "circle", "comment": "approx radial circle" }
+}
